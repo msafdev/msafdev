@@ -2,13 +2,13 @@
 
 #
 
-## ❝ about me ❞
+<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">❝ About ❞</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis nunc sed auctor. Donec ut ipsum ex. Morbi fringilla tristique ultrices. Nulla ultricies erat quis erat pretium, iaculis imperdiet erat fermentum. Morbi dui neque, eleifend et sagittis nec, elementum ultricies velit. Quisque dapibus tellus varius pulvinar mattis. Cras aliquet dolor non egestas imperdiet. Mauris et mattis augue. Proin ut elit sit amet sapien dignissim vulputate sed id risus. Integer congue urna nec orci iaculis placerat sit amet vitae magna.
+I'm an indonesian computer engineering student who has used Python, Java, C++, Javascript, and PHP with each of their respective frameworks. I love using and customizing templates so that my projects look what i want them to look like. I'm native in Indonesian living in Semarang, Central Java and I'm pretty confident in my English skills.
 
 #
 
-## __Connect with me ↴__
+<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Connect ↝</h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sal__moon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/msalman_af)
@@ -16,12 +16,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alfarisi-6aba25226)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faris.kocak@gmail.com)
 
-#
+# 
 
-**`mytimeline`**
+<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Timeline ↝</h2>
+
 - __2002__ - uttered my first word, *"javascript"*
 
 - __2018__ - international student exchange to Australia
+
+- __2020__ - took Computer Engineering in University of Diponegoro
   
 - __2021__ - my first Java calculator
   
@@ -29,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis 
   
 #
 
-<h3 align="left" style="margin-bottom: 14px">Languages and Tools ⤼</h3>
+<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Languages and Tools ↝</h2>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
@@ -41,6 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
 #
+
+<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Stats ↝</h2>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSalmanAlfarisi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
