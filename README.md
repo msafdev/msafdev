@@ -1,6 +1,4 @@
-<center><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin-left: auto"></center>
-
-﹤﹥
+<center><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin: 30px"></center>
 
 #
 
@@ -45,3 +43,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis 
 #
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSalmanAlfarisi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
