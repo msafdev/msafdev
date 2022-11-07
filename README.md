@@ -1,6 +1,6 @@
 <center><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin-left: auto"></center>
 
-<br>
+﹤﹥
 
 #
 
@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius quis 
 
 #
 
-__Connect with me ↴__
+## __Connect with me ↴__
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sal__moon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/msalman_af)
@@ -31,12 +31,10 @@ __Connect with me ↴__
   
 #
 
-<h3 align="left" style="margin-bottom: 14px">Languages and Tools ✔</h3>
+<h3 align="left" style="margin-bottom: 14px">Languages and Tools ⤼</h3>
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,4 +45,3 @@ __Connect with me ↴__
 #
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSalmanAlfarisi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
