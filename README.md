@@ -6,7 +6,7 @@
 
 I'm an indonesian computer engineering student who has used Python, Java, C++, Javascript, and PHP with each of their respective frameworks. I love using and customizing templates so that my projects look what i want them to look like. I'm native in Indonesian living in Semarang, Central Java and I'm pretty confident in my English skills.
 
-#
+# 
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Connect ↝</p>
 
@@ -22,7 +22,7 @@ I'm an indonesian computer engineering student who has used Python, Java, C++, J
 
 - __2002__ - uttered my first word, *"javascript"*
 
-- __2018__ - international student exchange to Australia
+- __2015__ - international student exchange to Australia
 
 - __2020__ - took Computer Engineering in University of Diponegoro
   
