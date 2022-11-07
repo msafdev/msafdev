@@ -2,13 +2,13 @@
 
 #
 
-<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">❝ About ❞</h2>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">❝ About ❞</p>
 
 I'm an indonesian computer engineering student who has used Python, Java, C++, Javascript, and PHP with each of their respective frameworks. I love using and customizing templates so that my projects look what i want them to look like. I'm native in Indonesian living in Semarang, Central Java and I'm pretty confident in my English skills.
 
 #
 
-<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Connect ↝</h2>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Connect ↝</p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sal__moon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/msalman_af)
@@ -18,7 +18,7 @@ I'm an indonesian computer engineering student who has used Python, Java, C++, J
 
 # 
 
-<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Timeline ↝</h2>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Timeline ↝</p>
 
 - __2002__ - uttered my first word, *"javascript"*
 
@@ -32,7 +32,7 @@ I'm an indonesian computer engineering student who has used Python, Java, C++, J
   
 #
 
-<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Languages and Tools ↝</h2>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Languages and Tools ↝</p>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
@@ -45,7 +45,7 @@ I'm an indonesian computer engineering student who has used Python, Java, C++, J
 
 #
 
-<h2 align="left" style="margin-bottom: 14px; font-weight: bold; color: #80489C">Stats ↝</h2>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSalmanAlfarisi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
