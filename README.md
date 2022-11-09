@@ -10,11 +10,11 @@ I'm an indonesian computer engineering student who has used Python, Java, C++, J
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Connect ↝</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sal__moon) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/msalman_af)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadSalmanAlfarisi)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alfarisi-6aba25226)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faris.kocak@gmail.com)
+<a href="https://twitter.com/sal__moon" target="_blank"><img alt="Salman's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://instagram.com/msalman_af" target="_blank"><img alt="Salman's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://github.com/MuhammadSalmanAlfarisi" target="_blank"><img alt="Salman's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muhammad-alfarisi-6aba25226" target="_blank"><img alt="Salman's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:faris.kocak@gmail.com" target="_blank"><img alt="Salman's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 # 
 
