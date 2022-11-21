@@ -1,4 +1,4 @@
-<center><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin: 30px"></center>
+<p align="center"><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin: 30px"></p>
 
 #
 
