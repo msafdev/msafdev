@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://i.ibb.co/XxfnXt5/download-5.png" alt="download-5" style="margin: 30px"></p>
+<p align="center"><img align="center" src="./public/MOON.svg" alt="icon" style="margin: 30px"></p>
 
 #
 
