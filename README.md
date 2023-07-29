@@ -4,7 +4,7 @@
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">❝ About ❞</p>
 
-I'm an indonesian computer engineering student who has used Python, Java, C++, Javascript, and PHP with each of their respective frameworks. I love using and customizing templates so that my projects look what i want them to look like. I'm native in Indonesian living in Semarang, Central Java and I'm pretty confident in my English skills.
+<span style="font-weight: bold; font-size: 24px;">Moon</span> here! a young yet enthusiastic computer engineering student from University of Diponegoro, Semarang, Indonesia. I am skilled in HTML, CSS, Javascript, and their respective frameworks such as ReactJS and TailwindCSS. I am open for any collaborations, feel free to hit me up!
 
 # 
 
