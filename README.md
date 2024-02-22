@@ -61,8 +61,8 @@ const Journey = [
 
 #
 
-<p align="center" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
 
-<p style="display: flex; width: 100%; justify-content: center;">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=transparent" alt="GitHub Streak Transparent" /></a>
+<p style="display: flex; width: 100%;">
+<a style="margin: 0 auto;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=transparent" alt="GitHub Streak Transparent" /></a>
 </p>
