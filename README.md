@@ -66,6 +66,5 @@ const Journey = [
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=transparent" alt="GitHub Streak Transparent" /></a>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
