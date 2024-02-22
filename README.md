@@ -1,35 +1,51 @@
-<p align="center"><img align="center" src="./public/MOON.svg" alt="icon" style="margin: 30px"></p>
+<div align="center" style="background-image: url('./public/Header.png'); background-size: cover; filter: brightness(0.8); background-position: center;">
+    <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="margin: 12px; width: 198px">
+</div>
+
+<p align="left" style="margin-top: 24px; margin-bottom: 14px; font-weight: bold; font-size: 20px">❝ About ❞</p>
+
+<p>
+  <span style="font-weight: 600; font-size: 16px;">Salman</span> here! Lives in Semarang, Indonesia. Proficient in HTML, CSS, JavaScript, as well as frameworks like React, Next, Astro, Laravel, Bootstrap, Tailwind, and much more. I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to reach out below.
+</p>
 
 #
 
-<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">❝ About ❞</p>
+<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 20px">Timeline ↝</p>
 
-<span style="font-weight: bold; font-size: 24px;">Moon</span> here! a young yet enthusiastic computer engineering student from University of Diponegoro, Semarang, Indonesia. I am skilled in HTML, CSS, Javascript, and their respective frameworks such as ReactJS and TailwindCSS. I am open for any collaborations, feel free to hit me up!
+```typescript
+const Journey = [
+    {
+        `year`: 2020,
+        `learn`: `Accepted into Computer Engineering at ${Diponegoro University}`
+        `work`: null
+    },
+    {
+        `year`: 2021,
+        `learn`: `Wrote my first line of ${Javascript}`
+        `work`: {
+            `Lab Assistant ${Computer Programming Fundamentals}`
+        }
+    },
+    {
+        `year`: 2022,
+        `learn`: `Started learning ${React}, ${SQL}, and ${Laravel}`
+        `work`: {
+            `${Software_Development} lab assistant`
+        }
+    },
+    {
+        `year`: 2023,
+        `learn`: `Started learning ${Next} and ${Tailwind}`
+        `work`: {
+            `${KEMNAKER_RI}`,
+            `${Object_Oriented_Programming} lab assistant`
+            `${Cloud_Computing_Cohort} by ${Google}`
+            `${Frontend_Developer} at ${fndigitalcode.com}`
+        }
+    }
+]
+```
 
-# 
-
-<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Connect ↝</p>
-
-<a href="https://twitter.com/sal__moon" target="_blank"><img alt="Salman's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://instagram.com/msalman_af" target="_blank"><img alt="Salman's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://github.com/MuhammadSalmanAlfarisi" target="_blank"><img alt="Salman's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/muhammad-alfarisi-6aba25226" target="_blank"><img alt="Salman's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:faris.kocak@gmail.com" target="_blank"><img alt="Salman's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-# 
-
-<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Timeline ↝</p>
-
-- __2002__ - uttered my first word, *"javascript"*
-
-- __2015__ - international student exchange to Australia
-
-- __2020__ - took Computer Engineering in University of Diponegoro
-  
-- __2021__ - my first Java calculator
-  
-- __2022__ - my web-dev journey starts
-  
 #
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Languages and Tools ↝</p>
@@ -42,3 +58,12 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+
+#
+
+<p align="center" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
+
+<p style="display: flex; justify-content: center;">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak Dark" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=default#gh-light-mode-only" alt="GitHub Streak Dark" /></a>
+</p>
