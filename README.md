@@ -1,12 +1,15 @@
-<div align="center" style="background-image: url('./public/Header.png'); background-size: cover; filter: brightness(0.8); background-position: center;">
-    <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="margin: 12px; width: 198px">
+<div align="center" style="display: flex; justify-content: center;">
+    <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="width: 150px;">
 </div>
 
-<p align="left" style="margin-top: 24px; margin-bottom: 14px; font-weight: bold; font-size: 20px">❝ About ❞</p>
+<span style="width: 200px; display: flex; flex-direction: column;">
+        <p align="left" style="margin-top: 24px; margin-bottom: 14px; font-weight: bold; font-size: 20px">❝ About ❞</p>
+        <p style="text-align: justify;"><span style="font-weight: 600; font-size: 16px;">Salman</span> here! Lives in Semarang, Indonesia. Proficient in HTML, CSS, JavaScript, as well as frameworks like React, Next, Astro, Laravel, Bootstrap, Tailwind, and much more.
+        </p>
+    </span>
 
-<p>
-  <span style="font-weight: 600; font-size: 16px;">Salman</span> here! Lives in Semarang, Indonesia. Proficient in HTML, CSS, JavaScript, as well as frameworks like React, Next, Astro, Laravel, Bootstrap, Tailwind, and much more. I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to reach out below.
-</p>
+> I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to reach out below.
+    
 
 #
 
@@ -63,6 +66,6 @@ const Journey = [
 
 <p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
 
-<p style="display: flex; width: 100%;">
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msafdev&theme=transparent" alt="GitHub Streak Transparent" /></a>
 </p>
