@@ -68,20 +68,16 @@ const Journey = [
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 07 March 2023 - To: 22 February 2024
+```typescript
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 445 hrs 33 mins
+Total Time: 19 hrs 55 mins
 
-JavaScript       256 hrs 43 mins >>>>>>>>>>>>>>-----------   57.56 %
-TypeScript       135 hrs 17 mins >>>>>>>>-----------------   30.33 %
-CSS              23 hrs 28 mins  >------------------------   05.26 %
-PHP              7 hrs 21 mins   -------------------------   01.65 %
-Blade Template   4 hrs 35 mins   -------------------------   01.03 %
-HTML             3 hrs 56 mins   -------------------------   00.88 %
-Python           2 hrs 53 mins   -------------------------   00.65 %
-Markdown         2 hrs 9 mins    -------------------------   00.48 %
-Bash             1 hr 35 mins    -------------------------   00.36 %
+TypeScript   14 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.41 %
+JavaScript   2 hrs 44 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.79 %
+Markdown     1 hr 57 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.84 %
+CSS          35 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.01 %
+Git Config   11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.92 %
 ```
 
 <!--END_SECTION:waka-->
