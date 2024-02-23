@@ -2,55 +2,44 @@
     <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="width: 150px;">
 </div>
 
-<span style="display: flex; flex-direction: column;">
-        <p align="left" style="margin-top: 24px; margin: 40px 0; font-weight: bold; font-size: 20px">❝ About ❞</p>
-        <p style="text-align: justify;"><span style="font-weight: 600; font-size: 16px;">Salman</span> here! Lives in Semarang, Indonesia. Proficient in HTML, CSS, JavaScript, as well as frameworks like React, Next, Astro, Laravel, Bootstrap, Tailwind, and much more.
-        </p>
-    </span>
+### hey there, Salman here ✨
 
-> I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to [reach out](https://linkedin.com/in/muhammadsalmoon) here!.
+Software engineer based in **Semarang, Indonesia**. Experienced in frontend web development with expertise in Typescript and JavaScript, and a little bit of MySQL and GQL.
+
+> I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to reach out below!.
+
+<a href="https://drive.google.com/drive/folders/1SvRkcbxKS97ceLUn1lgBP56DQfzt-FIu?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
 #
 
-<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 20px">Timeline ↝</p>
+### my details 🔥
 
 ```typescript
-const Journey = [
-    {
-        `year`: 2020,
-        `learn`: `Accepted into Computer Engineering at ${Diponegoro University}`
-        `work`: null
+const bahasa = {
+    name: ["Salman", "Moon", "Kei"],
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C++", "Python"],
+    topics: ["web dev", "ui/ux", "mobile dev"],
+    technologies: {
+        frontend: {
+            framework: ["React", "Next", "Laravel", "Astro"]
+        },
+        backend: {
+            framework: ["Node", "Express", "Laravel"]
+        },
+        mobile: {
+            framework: ["React Native", "Kotlin", "Flutter"]
+        },
+        database: ["GQL", "MySQL", "MongoDB"],
+        misc: ["Firebase", "Tailwind", "Bootstrap"]
     },
-    {
-        `year`: 2021,
-        `learn`: `Wrote my first line of ${Javascript}`
-        `work`: {
-            `Lab Assistant ${Computer Programming Fundamentals}`
-        }
-    },
-    {
-        `year`: 2022,
-        `learn`: `Started learning ${React}, ${SQL}, and ${Laravel}`
-        `work`: {
-            `${Software_Development} lab assistant`
-        }
-    },
-    {
-        `year`: 2023,
-        `learn`: `Started learning ${Next} and ${Tailwind}`
-        `work`: {
-            `${KEMNAKER_RI}`,
-            `${Object_Oriented_Programming} lab assistant`
-            `${Cloud_Computing_Cohort} by ${Google}`
-            `${Frontend_Developer} at ${fndigitalcode.com}`
-        }
-    }
-]
+    focus: "Improving ⚡",
+}
 ```
 
 #
 
-<p align="left" style="margin-bottom: 14px; font-weight: bold; font-size: 22px">Stats ↝</p>
+### detail 🔥
 
 <!--START_SECTION:waka-->
 
@@ -67,3 +56,5 @@ Blade Template   4 hrs 35 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ```
 
 <!--END_SECTION:waka-->
+
+#
