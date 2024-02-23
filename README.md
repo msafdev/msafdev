@@ -2,11 +2,11 @@
     <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="width: 150px;">
 </div>
 
+#
+
 ### hey there, Salman here ✨
 
 Software engineer based in **Semarang, Indonesia**. Experienced in frontend web development with expertise in Typescript and JavaScript, and a little bit of MySQL and GQL.
-
-> I'm actively seeking opportunities for collaboration and professional growth. Don't hesitate to reach out below!.
 
 <a href="https://drive.google.com/drive/folders/1SvRkcbxKS97ceLUn1lgBP56DQfzt-FIu?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
