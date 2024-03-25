@@ -44,13 +44,13 @@ const bahasa = {
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 March 2023 - To: 22 March 2024
+From: 07 March 2023 - To: 23 March 2024
 
-Total Time: 534 hrs 13 mins
+Total Time: 535 hrs 16 mins
 
-JavaScript       260 hrs 48 mins ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.74 %
-TypeScript       210 hrs 6 mins  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   39.26 %
-CSS              29 hrs 30 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.51 %
+JavaScript       260 hrs 48 mins ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.64 %
+TypeScript       211 hrs 9 mins  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   39.38 %
+CSS              29 hrs 30 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.50 %
 PHP              7 hrs 21 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.37 %
 HTML             6 hrs 49 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.27 %
 ```
