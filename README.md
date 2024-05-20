@@ -44,7 +44,7 @@ const bahasa = {
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 March 2023 - To: 17 May 2024
+From: 07 March 2023 - To: 18 May 2024
 
 Total Time: 669 hrs 58 mins
 
