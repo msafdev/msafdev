@@ -39,7 +39,7 @@ const bahasa = {
 
 #
 
-### detail 🔥
+### my journey 🤖
 
 <!--START_SECTION:waka-->
 
