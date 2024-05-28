@@ -8,7 +8,7 @@
 
 Software engineer based in **Semarang, Indonesia**. Experienced in frontend web development with expertise in Typescript and JavaScript, and a little bit of MySQL and GQL.
 
-<a href="https://drive.google.com/drive/folders/1SvRkcbxKS97ceLUn1lgBP56DQfzt-FIu?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
+<a href="https://drive.google.com/file/d/1mCvY4uWDmKjsaQEBkDzQZC4bc-AkZHPK/view?usp=drive_link" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
 #
 
