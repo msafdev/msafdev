@@ -15,23 +15,26 @@ Software engineer based in **Semarang, Indonesia**. Experienced in frontend web 
 ### my details 🔥
 
 ```typescript
-const bahasa = {
+const info = {
     name: ["Salman", "Moon", "Kei"],
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C++", "Python"],
+    pronouns: ["He", "Him", "They"],
+    langs: ["Javascript", "Typescript", "C++", "Python", "Go"],
     topics: ["web dev", "ui/ux", "mobile dev"],
-    technologies: {
+    stack: {
         frontend: {
-            framework: ["React", "Next", "Laravel", "Astro"]
+            frameworks: ["React", "Next", "Astro", "Tailwind"]
         },
         backend: {
-            framework: ["Node", "Express", "Laravel"]
+            frameworks: ["Node", "Express", "Nest"]
         },
         mobile: {
-            framework: ["React Native", "Kotlin", "Flutter"]
+            frameworks: ["React Native", "Flutter"]
         },
-        database: ["GQL", "MySQL", "MongoDB"],
-        misc: ["Firebase", "Tailwind", "Bootstrap"]
+        design: {
+            tools: ["Figma", "Photoshop", "Canva"]
+        },
+        database: ["GQL", "MySQL", "Supabase"],
+        misc: ["Notion", "Obsidian", "Framer"]
     },
     focus: "Improving ⚡",
 }
