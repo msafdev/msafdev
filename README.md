@@ -1,12 +1,12 @@
 <div align="center" style="display: flex; justify-content: center;">
-    <img align="center" src="./public/Bitmoji.png" alt="Bitmoji" style="width: 150px;">
+    <img align="center" src="./public/profile.jpg" alt="Msafdev Header" style="width: 100%; height: auto">
 </div>
 
 #
 
 ### hey there, Salman here ✨
 
-Software engineer based in **Semarang, Indonesia**. Experienced in frontend web development with expertise in Typescript and JavaScript, and a little bit of MySQL and GQL.
+Creative engineer based in **Semarang, Indonesia**. Experienced in frontend and backend web development with expertise in Next, React, Angular, Supabase, GQL, and Typescript.
 
 <a href="https://drive.google.com/file/d/1mCvY4uWDmKjsaQEBkDzQZC4bc-AkZHPK/view?usp=drive_link" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
