@@ -4,7 +4,7 @@
 
 ### hey there, Salman here ✨
 
-Creative engineer based in **Semarang, Indonesia**. Experienced in frontend and backend web development with expertise in Next, React, Angular, Supabase, GQL, and Typescript.
+Creative engineer based in **Semarang, Indonesia**. Experienced in frontend and backend web development with expertise in Next, React, SQL, GQL, Express, and Typescript.
 
 <a href="https://drive.google.com/file/d/1mCvY4uWDmKjsaQEBkDzQZC4bc-AkZHPK/view?usp=drive_link" target="_blank">![Static Badge](https://img.shields.io/badge/resume-white?style=for-the-badge)</a>
 
