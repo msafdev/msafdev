@@ -2,8 +2,6 @@
     <img align="center" src="./public/profile.jpg" alt="Msafdev Header" style="width: 100%; height: auto">
 </div>
 
-#
-
 ### hey there, Salman here ✨
 
 Creative engineer based in **Semarang, Indonesia**. Experienced in frontend and backend web development with expertise in Next, React, Angular, Supabase, GQL, and Typescript.
