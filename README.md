@@ -45,14 +45,14 @@ const info = {
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 March 2023 - To: 28 June 2024
+From: 07 March 2023 - To: 29 June 2024
 
-Total Time: 790 hrs 27 mins
+Total Time: 797 hrs 20 mins
 
-TypeScript       441 hrs 8 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   55.58 %
-JavaScript       271 hrs 5 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.15 %
-CSS              36 hrs 55 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.65 %
-PHP              7 hrs 21 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.93 %
+TypeScript       447 hrs 25 mins ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   55.88 %
+JavaScript       271 hrs 5 mins  ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   33.86 %
+CSS              37 hrs 28 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.68 %
+PHP              7 hrs 21 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.92 %
 HTML             7 hrs 5 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.89 %
 ```
 
