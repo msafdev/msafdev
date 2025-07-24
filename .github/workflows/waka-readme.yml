@@ -33,10 +33,10 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          COMMIT_MESSAGE: updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMITTER_NAME: Msafdev # optional
+          COMMITTER_EMAIL: salmanalfarisi261002@gmail.com
           AUTHOR_NAME: msafdev # optional
           # you can populate email-id with secretes instead
